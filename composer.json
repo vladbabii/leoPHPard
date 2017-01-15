@@ -1,0 +1,19 @@
+{
+    "name": "vladbabii/leophpard",
+    "description": "Quick url router filter for routes with regular expressions that don't span multiple url pieces",
+    "type": "library",
+    "license": "Free to use",
+    "authors": [
+        {
+            "name": "Vlad Babii",
+            "email": "vlad@babii.ro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-0" : {
+			"Phpobia": "src/"
+		}
+	}
+}
