@@ -41,5 +41,6 @@ Improvements to follow
 - custom regular expression start and end strings
 - custom filtering order
 - add more filtering
+- better readme :)
 
 Any feedback is welcome
