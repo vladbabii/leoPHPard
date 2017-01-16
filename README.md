@@ -29,7 +29,7 @@ As long as your regular expressions don't span different url pieces (cointain sl
 
 ## Usage
 
-See test/FilterTest.php ortest_random_benchmark/bench.php for usage examples
+See test/FilterTest.php or test_random_benchmark/bench.php for usage examples
 
 ## Performance
 
