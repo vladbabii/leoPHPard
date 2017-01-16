@@ -14,7 +14,7 @@
     "require": {},
 	"autoload": {
 		"psr-0" : {
-			"Phpobia": "src/"
+			"Leophpard": "src/"
 		}
 	}
 }
