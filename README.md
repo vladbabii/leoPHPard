@@ -38,9 +38,8 @@ Take a look into test_random_benchmark:. With 1000 random urls with 5-7 pieces o
 ## Work in progress
 
 Improvements to follow
-- custom regular expression start and end strings
-- custom filtering order
 - add more filtering
 - better readme :)
+- logging (although not sure it's needed?)
 
 Any feedback is welcome
