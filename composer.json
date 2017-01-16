@@ -9,7 +9,6 @@
             "email": "vlad@babii.ro"
         }
     ],
-    "minimum-stability": "stable",
     "version": "1.0.0",
     "require": {},
 	"autoload": {
